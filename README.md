@@ -2,7 +2,6 @@
 
 Integrating Different School Systems into a Unified School Management Application
 
-
 Adaptee Objects:
 
 AttendanceSystem - Represents an attendance tracking system that needs to be integrated. It has the markAttendance() method.
