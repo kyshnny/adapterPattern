@@ -2,6 +2,7 @@
 
 Integrating Different School Systems into a Unified School Management Application
 
+
 Adaptee Objects:
 
 AttendanceSystem - Represents an attendance tracking system that needs to be integrated. It has the markAttendance() method.
@@ -10,9 +11,11 @@ GradingSystem - Represents a grading system that requires integration. It has th
 
 LibrarySystem - Represents a library management system that needs to be integrated. It has the manageBooks() method.
 
+
 Target Object:
 
 SchoolManagementApp - Represents a unified school management application with a common interface for integrating systems. It defines the integrateSystem() method as the target method.
+
 
 Adapter Objects:
 
